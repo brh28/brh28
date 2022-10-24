@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brh28
-- 👀 I’m interested in cryptocurrencies and other more general decentralizing technologies. 
-- 🌱 I’m currently learning Plutus as part of the Pioneer Program, but also been playing around with IPFS and Bitcoin Lightning.
-- 💞️ I’m looking to collaborate on applications on Cardano and running nodes for incentivized networks. 
+- 👀 I’m interested in Bitcoin and other decentralized tech. 
+- 🌱 I’m the creator of WordForm.space, which is a content platform using the Lightning Network for paywalls.
+- 💞️ I’m looking for developers to build along. 
 - 📫 How to reach me: benhindman@gmail.com
 
 <!---
