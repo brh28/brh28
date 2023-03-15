@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brh28
 - 👀 I’m interested in Bitcoin and other decentralized tech. 
-- 🌱 I’m the creator of WordForm.space, which is a content platform using the Lightning Network for paywalls.
+- 🌱 I’m the creator of WordForm.space: a content platform using the Lightning Network for paywalls.
 - 💞️ I’m looking for developers to build along. 
 - 📫 How to reach me: benhindman@gmail.com
 
