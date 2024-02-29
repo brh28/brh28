@@ -1,6 +1,9 @@
-Hi, I’m @brh28
-I’m interested in Bitcoin and freedom tech. 
-I’m the creator of WordForm.space: a content platform using the Lightning Network for paywalls.
+Hey all and welcome!
+
+I'm currently working on the [Flash](https://github.com/lnflash/) project to bring Lightning to the Caribbean. 
+
+I’m also the creator of [WordForm](wordform.space) - a content platform with Lightning paywalls.
+
 Reach me at: benhindman@skiff.com
 
 <!---
