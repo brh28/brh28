@@ -4,7 +4,7 @@ I'm currently working on the [Flash](https://github.com/lnflash/) project to bri
 
 I’m also the creator of [WordForm](wordform.space) - a content platform with Lightning paywalls.
 
-Reach me at: benhindman@skiff.com
+Reach me at: ben@wordform.space
 
 <!---
 brh28/brh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
