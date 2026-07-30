@@ -1,10 +1,8 @@
 Hey all and welcome!
 
-I'm currently working on the [Flash](https://github.com/lnflash/) project to bring Lightning to the Caribbean. 
+I'm typically working on applications on Bitcoin and Lightning.
 
-I’m also the creator of [WordForm](wordform.space) - a content platform with Lightning paywalls.
-
-Reach me at: ben@wordform.space
+Reach me at: bhindman@proton.me
 
 <!---
 brh28/brh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
